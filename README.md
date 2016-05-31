@@ -1,7 +1,9 @@
 # Projet Terminale SIN
 Répertoire contenant les codes sources du projet de terminale SIN 2013 :
-Un ascenseur piloté avec un Arduino MEGA
+Un ascenseur piloté avec un Arduino MEGA.
+
 Il y a donc le programme à utiliser avec l'arduino (C++ like)
+
 Il y a également les programmes scripté avec AutoIt permettant le fonctionnement de la simulation en tandem avec la maquette, et la reconaissance vocale.
 
 Les vidéos de démonstration sont visibles ici :
